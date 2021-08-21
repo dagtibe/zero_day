@@ -14,10 +14,11 @@
    HTML, CSS
 
  ## lessons learned
- 
+<<<<<<< HEAD
  Both  **soft** and *technical* skills.And also it is community based.
-
- 
+=======
+ Both  **soft** and **technical** skills.And also it is community based.
+>>>>>>> 112678176e1cc970ded0a724cf7f383c86cb9c5e
 
 ### Tools used on the project
 
